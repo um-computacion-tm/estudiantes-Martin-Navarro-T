@@ -17,11 +17,11 @@ print("-Esta en la carrera de: " , alumno_martin.carrera)
 print("-Esta en:v" , alumno_martin.year)
 
 print("EL ALUMNO FUE A CLASE...")
-alumno_martin.asistencia_clase()
-alumno_martin.asistencia_clase()
-alumno_martin.asistencia_clase()
-alumno_martin.asistencia_clase()
-alumno_martin.asistencia_clase()
-alumno_martin.asistencia_clase()
-alumno_martin.asistencia_clase()
+alumno_martin.asistencia_clase() #CLASE 1
+alumno_martin.asistencia_clase() #C;ASE 2
+alumno_martin.asistencia_clase() #CLASE 3
+alumno_martin.asistencia_clase() #CLASE 4
+alumno_martin.asistencia_clase() #CLASE 5
+alumno_martin.asistencia_clase() #CLASE 6 
+alumno_martin.asistencia_clase() #CLASE 7
 print("-Su asistencia es: " , alumno_martin.asistencia)
